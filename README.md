@@ -9,7 +9,7 @@ ANAIS--112 is taking data at the Canfranc Underground Laboratory since 3 August 
 The ANAIS experiment operation is presently financially supported by MICIU/AEI/10.13039/501100011033 (Grants No. PID2022-138357NB-C21 and PID2019-104374GB-I00), and Unión Europea NextGenerationEU/PRTR (AstroHEP) and the Gobierno de Aragón. Funding from Grant FPA2017-83133-P, Consolider-Ingenio 2010 Programme under grants MULTIDARK CSD2009-00064 and CPAN CSD2007-00042, the Gobierno de Aragón and the LSC Consortium made possible the setting-up of the detectors. The technical support from LSC and GIFNA staff as well as from Servicios de Apoyo a la Investigación de la Universidad de Zaragoza (SAIs) is warmly acknowledged.
 
 <img width="200" height="150" alt="ANAIS_log_new" src="https://github.com/user-attachments/assets/553b25d8-b1ba-4e6b-80b2-94535ad9b811" />
-<img width="500" height="175" alt="Logo_CAPA_leyenda" src="https://github.com/user-attachments/assets/a3aade8c-4cd0-4a57-ad07-b8da7eea07a4" />
+<img width="600" height="175" alt="Logo_CAPA_leyenda" src="https://github.com/user-attachments/assets/a3aade8c-4cd0-4a57-ad07-b8da7eea07a4" />
 <img width="200" height="150" alt="logoLSC_2023" src="https://github.com/user-attachments/assets/8186490e-73f2-4e32-86a1-2067980a9492" />
 
 <img width="300" height="175" alt="logoDGA" src="https://github.com/user-attachments/assets/cd3e1ab8-8c38-44cb-ad09-d92224b8d1ec" />
