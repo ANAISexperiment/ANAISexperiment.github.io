@@ -31,6 +31,10 @@ ANAIS-112 is taking data at the Canfranc Underground Laboratory since 3 August 2
 The ANAIS experiment operation is presently financially supported by MICIU/AEI/10.13039/501100011033 (Grants No. PID2022-138357NB-C21 and PID2019-104374GB-I00), and Unión Europea NextGenerationEU/PRTR (AstroHEP) and the Gobierno de Aragón. Funding from Grant FPA2017-83133-P, Consolider-Ingenio 2010 Programme under grants MULTIDARK CSD2009-00064 and CPAN CSD2007-00042, the Gobierno de Aragón and the LSC Consortium made possible the setting-up of the detectors. The technical support from LSC and GIFNA staff as well as from Servicios de Apoyo a la Investigación de la Universidad de Zaragoza (SAIs) is warmly acknowledged.
 </div>
 
+<p align="center">
+<img width="1000" height="540" alt="image" src="https://github.com/user-attachments/assets/ef7b71a8-858a-4beb-81d8-4f8b90213aa5" />
+</p>
+
 ## Website
 
 <div style="text-align: justify;">
