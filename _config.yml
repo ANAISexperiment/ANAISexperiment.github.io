@@ -1,0 +1,35 @@
+# Use the Just the Docs theme
+remote_theme: pmarsceill/just-the-docs
+
+# Site info
+title: "The ANAIS Experiment"
+description: "Documentation of the experiment and results using Just the Docs"
+
+# Appearance
+color_scheme: light  # Change to "dark" for a dark mode
+
+# GitHub "Edit this page" link
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/ANAISexperiment/ANAISexperiment.github.io"  # 🔁 Replace with your repo
+gh_edit_branch: "main"
+gh_edit_view_mode: "edit"
+
+# Google Analytics (optional)
+# ga_tracking: G-XXXXXXXXXX
+# ga_tracking_anonymize_ip: true
+
+# Custom callout blocks
+callouts:
+  important:
+    title: Important
+    color: blue
+  warning:
+    title: Warning
+    color: red
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
