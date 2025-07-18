@@ -11,6 +11,7 @@ nav_order: 1
 
 <img width="297" height="266" alt="468083517-553b25d8-b1ba-4e6b-80b2-94535ad9b811" src="https://github.com/user-attachments/assets/4bc29fca-fbdc-47ac-bb25-b92a3cc70278" />
 
+<div style="text-align: justify;">
 The direct detection of the Dark Matter of the Universe is a very exciting challenge full of unknowns and uncertainties about its nature. ANAIS is an experiment developed by the Nuclear Physics and Astroparticles group of the University of Zaragoza which pursues this elusive dark matter detection by looking at the annual modulation of the expected interaction rates in a target of sodium iodide, material which produces small scintillations when a particle interacts and deposits some energy. This modulation is a distinctive feature stemming from the Earth revolution around the Sun which changes periodically the relative velocity of the incoming Dark Matter particles to the detector and, because of that, the energy deposited. The DAMA/LIBRA experiment at the Gran Sasso Underground Laboratory has reported the presence of modulation in its data with a high statistical significance; ANAIS could either confirm or refute such a signal, while helping to understand the different systematics involved.
 
 ANAIS is the large scale conclusion of previous studies carried out with different prototypes by the University of Zaragoza group at the Canfranc Underground Laboratory, Spain. ANAIS-112 is using 112.5 kg of NaI(Tl) crystals to study the expected annual modulation in the galactic dark matter signal distributed in 9 modules of 12.5 kg each.
@@ -24,3 +25,4 @@ The ANAIS experiment operation is presently financially supported by MICIU/AEI/1
 ## Website
 
 <a href="https://gifna.unizar.es/anais/" target="_blank">https://gifna.unizar.es/anais/</a>
+</div>
