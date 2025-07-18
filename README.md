@@ -10,7 +10,7 @@ The ANAIS experiment operation is presently financially supported by MICIU/AEI/1
 
 <img width="200" height="150" alt="ANAIS_log_new" src="https://github.com/user-attachments/assets/553b25d8-b1ba-4e6b-80b2-94535ad9b811" />
 <img width="500" height="175" alt="Logo_CAPA_leyenda" src="https://github.com/user-attachments/assets/a3aade8c-4cd0-4a57-ad07-b8da7eea07a4" />
-<img width="250" height="175" alt="logoLSC_2023" src="https://github.com/user-attachments/assets/8186490e-73f2-4e32-86a1-2067980a9492" />
+<img width="200" height="150" alt="logoLSC_2023" src="https://github.com/user-attachments/assets/8186490e-73f2-4e32-86a1-2067980a9492" />
 
 <img width="300" height="175" alt="logoDGA" src="https://github.com/user-attachments/assets/cd3e1ab8-8c38-44cb-ad09-d92224b8d1ec" />
 <img width="300" height="175" alt="miciu-aei" src="https://github.com/user-attachments/assets/eb222ad4-6757-4395-af96-b72b81723ea2" />
