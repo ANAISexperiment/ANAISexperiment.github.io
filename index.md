@@ -32,7 +32,7 @@ The ANAIS experiment operation is presently financially supported by MICIU/AEI/1
 </div>
 
 <p align="center">
-<img width="1000" height="540" alt="image" src="https://github.com/user-attachments/assets/ef7b71a8-858a-4beb-81d8-4f8b90213aa5" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/ef7b71a8-858a-4beb-81d8-4f8b90213aa5" />
 </p>
 
 ## Website
