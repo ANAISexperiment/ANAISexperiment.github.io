@@ -14,4 +14,4 @@ The ANAIS experiment operation is presently financially supported by MICIU/AEI/1
 
 <img width="300" height="175" alt="logoDGA" src="https://github.com/user-attachments/assets/cd3e1ab8-8c38-44cb-ad09-d92224b8d1ec" />
 <img width="300" height="175" alt="miciu-aei" src="https://github.com/user-attachments/assets/eb222ad4-6757-4395-af96-b72b81723ea2" />
-<img width="750" height="175" alt="logos-EUGOBMinresilencia" src="https://github.com/user-attachments/assets/c917cc2f-a4f4-440b-8d5f-df44d7f621b5" />
+<img width="850" height="175" alt="logos-EUGOBMinresilencia" src="https://github.com/user-attachments/assets/c917cc2f-a4f4-440b-8d5f-df44d7f621b5" />
