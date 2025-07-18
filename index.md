@@ -9,7 +9,7 @@ nav_order: 1
 > [!important]
 > This documentation is a work in progress.
 <p align="center">
-<img width="250" alt="468083517-553b25d8-b1ba-4e6b-80b2-94535ad9b811" src="https://github.com/user-attachments/assets/4bc29fca-fbdc-47ac-bb25-b92a3cc70278" />
+<img width="200" height="150" alt="468083517-553b25d8-b1ba-4e6b-80b2-94535ad9b811" src="https://github.com/user-attachments/assets/4bc29fca-fbdc-47ac-bb25-b92a3cc70278" />
 </p>
 
 
