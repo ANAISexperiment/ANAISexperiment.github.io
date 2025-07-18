@@ -9,7 +9,7 @@ nav_order: 1
 > [!important]
 > This documentation is a work in progress.
 <p align="center">
-<img src="assets/images/ANAISlogo.png" width="200">
+<img src="assets/images/ANAISlogo.png" width="150">
 </p>
 
 
